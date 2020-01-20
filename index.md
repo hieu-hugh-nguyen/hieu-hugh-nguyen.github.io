@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Project 1 Title](/sample_page)
+[A Machine Learning-Based Prediction of Cardiac Arrest Outcome Using a Large Multi-Center Database](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Machine Learning Methods for Survival Analysis: Are They Good Enough?](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[An Early Prediction Algorirthm For Response to Treatment in Kawasaki Patients](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
