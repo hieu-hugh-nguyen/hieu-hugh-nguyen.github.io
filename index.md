@@ -4,21 +4,21 @@
 
 ### Projects 
 
-[A Machine Learning-Based Prediction of Cardiac Arrest Outcome Using a Large Multi-Center Database](/sample_page)
+[A Machine Learning-Based Prediction of Cardiac Arrest Outcome Using a Large Multi-Center Database](/pdf/TeamBlue_5minPresentation (1).pdf)
 
 Utilizing electronic health record and bed-side monitoring temporal data, our post-cardiac arrest neurologic outcome and mortality prediction machine learning model outperforms the baseline APACHE model by area under the receiver operating curve of 12% and 15% respectively, showing both the efficacy of integrating time series data and the generalizability of utilizing a diverse multicenter database. Feature analysis revealed previously unknown factors which were associated with post-CA recovery. Results attest to the effectiveness of ML models for post-CA predictive modeling and suggest that PTS recorded in very early phase after resuscitation encode short-term outcome probabilities.
 
 ---
-[Machine Learning Methods for Survival Analysis: Are They Good Enough?](/pdf/sample_presentation.pdf)
+[Machine Learning Methods for Survival Analysis: Are They Good Enough?](/pdf/SLAM_presentation_2.pdf)
 
 ---
-[An Early Prediction Algorirthm For Response to Treatment in Kawasaki Patients](http://example.com/)
+[An Early Prediction Algorirthm For Response to Treatment in Kawasaki Patients]
 
 ---
-[Better Prediction of Outcomes in Pediatric and Adult Cardiac Surgery](http://example.com/)
+[Better Prediction of Outcomes in Pediatric and Adult Cardiac Surgery]
 
 ---
-[Prediction of Trajectory of Exercise Capacity and Functional Status in Patients with Structural Heart Disease](http://example.com/)
+[Prediction of Trajectory of Exercise Capacity and Functional Status in Patients with Structural Heart Disease]
 
 ---
 
@@ -45,6 +45,10 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 
 
 ### Honors and Awards:
+
+Star Research Achievement Award| Society of Critical Care Medicine
+2020
+The award recognizes excellence in critical care research
 
 Young Investigator Award | Resuscitation Science Symposium, American Heart Association 
 2019
