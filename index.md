@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[A Machine Learning-Based Prediction of Cardiac Arrest Outcome Using a Large Multi-Center Database](/pdf/TeamBlue_5minPresentation (1).pdf)
+[A Machine Learning-Based Prediction of Cardiac Arrest Outcome Using a Large Multi-Center Database](/pdf/TeamBlue_5minPresentation.pdf)
 
 Utilizing electronic health record and bed-side monitoring temporal data, our post-cardiac arrest neurologic outcome and mortality prediction machine learning model outperforms the baseline APACHE model by area under the receiver operating curve of 12% and 15% respectively, showing both the efficacy of integrating time series data and the generalizability of utilizing a diverse multicenter database. Feature analysis revealed previously unknown factors which were associated with post-CA recovery. Results attest to the effectiveness of ML models for post-CA predictive modeling and suggest that PTS recorded in very early phase after resuscitation encode short-term outcome probabilities.
 
