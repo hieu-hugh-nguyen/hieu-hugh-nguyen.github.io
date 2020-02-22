@@ -5,8 +5,7 @@
 ### Projects 
 
 [A Machine Learning-Based Prediction of Cardiac Arrest Outcome Using a Large Multi-Center Database](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+Utilizing electronic health record and bed-side monitoring temporal data, our post-cardiac arrest neurologic outcome and mortality prediction machine learning model outperforms the baseline APACHE model by area under the receiver operating curve of 12% and 15% respectively, showing both the efficacy of integrating time series data and the generalizability of utilizing a diverse multicenter database. 
 ---
 [Machine Learning Methods for Survival Analysis: Are They Good Enough?](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
