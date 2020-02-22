@@ -6,23 +6,19 @@
 
 [A Machine Learning-Based Prediction of Cardiac Arrest Outcome Using a Large Multi-Center Database](/sample_page)
 
-Utilizing electronic health record and bed-side monitoring temporal data, our post-cardiac arrest neurologic outcome and mortality prediction machine learning model outperforms the baseline APACHE model by area under the receiver operating curve of 12% and 15% respectively, showing both the efficacy of integrating time series data and the generalizability of utilizing a diverse multicenter database. 
+Utilizing electronic health record and bed-side monitoring temporal data, our post-cardiac arrest neurologic outcome and mortality prediction machine learning model outperforms the baseline APACHE model by area under the receiver operating curve of 12% and 15% respectively, showing both the efficacy of integrating time series data and the generalizability of utilizing a diverse multicenter database. Feature analysis revealed previously unknown factors which were associated with post-CA recovery. Results attest to the effectiveness of ML models for post-CA predictive modeling and suggest that PTS recorded in very early phase after resuscitation encode short-term outcome probabilities.
 
 ---
 [Machine Learning Methods for Survival Analysis: Are They Good Enough?](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [An Early Prediction Algorirthm For Response to Treatment in Kawasaki Patients](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Better Prediction of Outcomes in Pediatric and Adult Cardiac Surgery](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Prediction of Trajectory of Exercise Capacity and Functional Status in Patients with Structural Heart Disease](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
@@ -39,18 +35,17 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 
 ### Publications:
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [A Physiology-Driven Computational Model for Post-Cardiac Arrest Outcome Prediction](https://arxiv.org/abs/2002.03309)
+- [Periatrial Fat Quality Predicts Atrial Fibrillation Ablation Outcome](https://www.ncbi.nlm.nih.gov/pubmed/31177816)
+- [Fibrosis and fibrotic gene expression in pediatric and adult patients with idiopathic dilated cardiomyopathy](https://www.ncbi.nlm.nih.gov/pubmed/27890770)
+- [Fibrosis-related gene expression in single ventricle heart disease](https://www.ncbi.nlm.nih.gov/pubmed/29050751)
+
 
 ---
 
-### Talks and Conferences:
-
 
 ### Honors and Awards:
+
 Young Investigator Award | Resuscitation Science Symposium, American Heart Association 
 2019
 The award recognizes excellent submissions in the field of cardiac and trauma resuscitation science that are conducted by investigators in their early careers
