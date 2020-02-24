@@ -12,7 +12,7 @@ Utilizing electronic health record and bed-side monitoring temporal data, our po
 [Machine Learning Methods for Survival Analysis: Are They Good Enough?](/pdf/SLAM_presentation_2.pdf)
 
 ---
-[An Early Prediction Algorirthm For Response to Treatment in Kawasaki Patients](/sample_page.md)
+[An Early Prediction Algorirthm For Response to Treatment in Kawasaki Patients](/projects/kawasaki.md)
 
 ---
 [Better Prediction of Outcomes in Pediatric and Adult Cardiac Surgery]
