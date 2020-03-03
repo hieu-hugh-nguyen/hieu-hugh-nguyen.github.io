@@ -48,10 +48,12 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 
 Star Research Achievement Award | Society of Critical Care Medicine
 2020|
+
 The award recognizes excellence in critical care research
 
 Young Investigator Award | Resuscitation Science Symposium, American Heart Association 
 2019 | 
+
 The award recognizes excellent submissions in the field of cardiac and trauma resuscitation science that are conducted by investigators in their early careers
 
 President’s Fellow | Trinity College, Dept. of Engineering 
