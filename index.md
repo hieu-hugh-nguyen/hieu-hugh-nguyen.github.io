@@ -2,7 +2,7 @@
 
 ---
 
-## Projects 
+## PROJECTS:
 ### Ongoing:
 [An Early Prediction Algorirthm For Response to Treatment in Kawasaki Patients](/projects/kawasaki.md)
 
@@ -46,7 +46,7 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 ---
 
 
-## Publications:
+## PUBLICATIONS:
 
 - [A Physiology-Driven Computational Model for Post-Cardiac Arrest Outcome Prediction](https://arxiv.org/abs/2002.03309)
 - [Periatrial Fat Quality Predicts Atrial Fibrillation Ablation Outcome](https://www.ncbi.nlm.nih.gov/pubmed/31177816)
@@ -57,7 +57,7 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 ---
 
 
-## Honors and Awards:
+## HONORS AND AWARDS:
 
 Star Research Achievement Award | Society of Critical Care Medicine
 2020 <br/>
