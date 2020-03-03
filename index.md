@@ -17,7 +17,8 @@
 [Novel Time-to-Event Machine Learning Approach for Integration of Longitudinal Data and Image Data](/projects/thesis.md)
 
 ---
-<br/>
+
+
 #### Completed:
 <br/>
 [A Machine Learning-Based Prediction of Cardiac Arrest Outcome Using a Large Multi-Center Database](/pdf/TeamBlue_5minPresentation.pdf)
