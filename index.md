@@ -2,7 +2,7 @@
 
 ---
 
-## PROJECTS:
+## I. PROJECTS:
 ### Ongoing:
 [An Early Prediction Algorirthm For Response to Treatment in Kawasaki Patients](/projects/kawasaki.md)
 
@@ -46,7 +46,8 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 ---
 
 
-## PUBLICATIONS:
+<br/>
+## II. PUBLICATIONS:
 
 - [A Physiology-Driven Computational Model for Post-Cardiac Arrest Outcome Prediction](https://arxiv.org/abs/2002.03309)
 - [Periatrial Fat Quality Predicts Atrial Fibrillation Ablation Outcome](https://www.ncbi.nlm.nih.gov/pubmed/31177816)
@@ -57,36 +58,37 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 ---
 
 
-## HONORS AND AWARDS:
+<br/>
+## III. HONORS AND AWARDS:
 
-Star Research Achievement Award | Society of Critical Care Medicine
+**Star Research Achievement Award** | Society of Critical Care Medicine
 2020 <br/>
 The award recognizes excellence in critical care research
 
-Young Investigator Award | Resuscitation Science Symposium, American Heart Association 
+**Young Investigator Award** | Resuscitation Science Symposium, American Heart Association 
 2019 <br/>
 The award recognizes excellent submissions in the field of cardiac and trauma resuscitation science that are conducted by investigators in their early careers
 
-President’s Fellow | Trinity College, Dept. of Engineering 
+**President’s Fellow** | Trinity College, Dept. of Engineering 
 2017 <br/>
 One senior student is selected as the best student from each major to represent their program of study 
 
-Presentation Award | Annual Biomedical Research Conference, American Society for Microbiology
+**Presentation Award** | Annual Biomedical Research Conference, American Society for Microbiology
 2016 <br/>
 The award recognizes students who gave the best presentations in each discipline
 
-Junior Engineering Prize | Trinity College, Dept. of Engineering 
+**Junior Engineering Prize** | Trinity College, Dept. of Engineering 
 2016 <br/>
 The award recognizes one rising senior engineering major who, voted by the Engineering faculty, has demonstrated outstanding academic achievement and shown evidence of professional development
 
-Full Scholarship | Trinity College 2013-2017 <br/>
+**Full Scholarship** | Trinity College 2013-2017 <br/>
 All tuition, room, board, and health insurance are covered for 4 years of college
 
-Research Grant from the Daniel and Janet Mordecai Foundation | Children’s Hospital Colorado 
+**Research Grant** from the Daniel and Janet Mordecai Foundation | Children’s Hospital Colorado 
 2014 <br/>
 The grant provides stipends for a summer research and travel expenses to present research
 
-One of Ten Young Promising Faces | Vietnamese Fund for Young Talents and National Committee Youth of Vietnam 
+**One of Ten Young Promising Faces** | Vietnamese Fund for Young Talents and National Committee Youth of Vietnam 
 2014 <br/>
 The award honors 10 Vietnamese under 35 years-old who stood out in fields of study, scientific research, production, society, sport, arts, and national defense
 
