@@ -46,7 +46,6 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 ---
 
 
-<br/>
 ## II. PUBLICATIONS:
 
 - [A Physiology-Driven Computational Model for Post-Cardiac Arrest Outcome Prediction](https://arxiv.org/abs/2002.03309)
@@ -58,7 +57,6 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 ---
 
 
-<br/>
 ## III. HONORS AND AWARDS:
 
 **Star Research Achievement Award** | Society of Critical Care Medicine
