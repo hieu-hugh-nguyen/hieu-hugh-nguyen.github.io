@@ -47,8 +47,7 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 ### Honors and Awards:
 
 Star Research Achievement Award | Society of Critical Care Medicine
-2020|
-
+2020 \
 The award recognizes excellence in critical care research
 
 Young Investigator Award | Resuscitation Science Symposium, American Heart Association 
