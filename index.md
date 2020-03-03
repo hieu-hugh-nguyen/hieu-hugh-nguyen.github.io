@@ -46,36 +46,36 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 
 ### Honors and Awards:
 
-Star Research Achievement Award| Society of Critical Care Medicine
-2020
+Star Research Achievement Award | Society of Critical Care Medicine
+2020|
 The award recognizes excellence in critical care research
 
 Young Investigator Award | Resuscitation Science Symposium, American Heart Association 
-2019
+2019 | 
 The award recognizes excellent submissions in the field of cardiac and trauma resuscitation science that are conducted by investigators in their early careers
 
 President’s Fellow | Trinity College, Dept. of Engineering 
-2017
+2017 | 
 One senior student is selected as the best student from each major to represent their program of study 
 
 Presentation Award | Annual Biomedical Research Conference, American Society for Microbiology
-2016
+2016 |
 The award recognizes students who gave the best presentations in each discipline
 
 Junior Engineering Prize | Trinity College, Dept. of Engineering 
-2016
+2016 |
 The award recognizes one rising senior engineering major who, voted by the Engineering faculty, has demonstrated outstanding academic achievement and shown evidence of professional development
 
 Full Scholarship | Trinity College 
-2013-2017
+2013-2017 | 
 All tuition, room, board, and health insurance are covered for 4 years of college
 
 Research Grant from the Daniel and Janet Mordecai Foundation | Children’s Hospital Colorado 
-2014
+2014 | 
 The grant provides stipends for a summer research and travel expenses to present research
 
 One of Ten Young Promising Faces | Vietnamese Fund for Young Talents and National Committee Youth of Vietnam 
-2014
+2014 | 
 The award honors 10 Vietnamese under 35 years-old who stood out in fields of study, scientific research, production, society, sport, arts, and national defense
 
 
