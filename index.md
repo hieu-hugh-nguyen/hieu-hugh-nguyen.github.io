@@ -1,9 +1,9 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Projects 
-#### Ongoing:
+## Projects 
+### Ongoing:
 [An Early Prediction Algorirthm For Response to Treatment in Kawasaki Patients](/projects/kawasaki.md)
 
 ---
@@ -19,7 +19,7 @@
 ---
 
 
-#### Completed:
+### Completed:
 [A Machine Learning-Based Prediction of Cardiac Arrest Outcome Using a Large Multi-Center Database](/pdf/TeamBlue_5minPresentation.pdf)
 
 Utilizing electronic health record and bed-side monitoring temporal data, our post-cardiac arrest neurologic outcome and mortality prediction machine learning model outperforms the baseline APACHE model by area under the receiver operating curve of 12% and 15% respectively, showing both the efficacy of integrating time series data and the generalizability of utilizing a diverse multicenter database. Feature analysis revealed previously unknown factors which were associated with post-CA recovery. Results attest to the effectiveness of ML models for post-CA predictive modeling and suggest that PTS recorded in very early phase after resuscitation encode short-term outcome probabilities.
@@ -45,7 +45,8 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 
 ---
 
-### Publications:
+
+## Publications:
 
 - [A Physiology-Driven Computational Model for Post-Cardiac Arrest Outcome Prediction](https://arxiv.org/abs/2002.03309)
 - [Periatrial Fat Quality Predicts Atrial Fibrillation Ablation Outcome](https://www.ncbi.nlm.nih.gov/pubmed/31177816)
@@ -56,7 +57,7 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 ---
 
 
-### Honors and Awards:
+## Honors and Awards:
 
 Star Research Achievement Award | Society of Critical Care Medicine
 2020 <br/>
