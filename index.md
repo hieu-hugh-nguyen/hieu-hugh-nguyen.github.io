@@ -20,17 +20,17 @@
 
 
 ### Completed:
-[A Machine Learning-Based Prediction of Cardiac Arrest Outcome Using a Large Multi-Center Database](/pdf/TeamBlue_5minPresentation.pdf)
+[A Machine Learning-Based Prediction of Cardiac Arrest Outcome Using a Large Multi-Center Database - Manuscript Under Review](/pdf/TeamBlue_5minPresentation.pdf)
 
 Utilizing electronic health record and bed-side monitoring temporal data, our post-cardiac arrest neurologic outcome and mortality prediction machine learning model outperforms the baseline APACHE model by area under the receiver operating curve of 12% and 15% respectively, showing both the efficacy of integrating time series data and the generalizability of utilizing a diverse multicenter database. Feature analysis revealed previously unknown factors which were associated with post-CA recovery. Results attest to the effectiveness of ML models for post-CA predictive modeling and suggest that PTS recorded in very early phase after resuscitation encode short-term outcome probabilities.
 
 ---
-[Machine Learning Methods for Survival Analysis: Are They Good Enough?](/pdf/SLAM_presentation_2.pdf)
+[Machine Learning Methods for Survival Analysis: Are They Good Enough? - Manuscript In Preparation](/pdf/SLAM_presentation_2.pdf)
 
 Recent advances in data acquisition, storage, and artificial intelligence have enabled the use of machine learning (ML) in processing large, high-dimensional data to support decision-making in medicine and many other fields. ML methods in general, and Deep Learning (DL) in particular, have shown various successes in classification and regression tasks, and several ML and DL methods have been successfully adapted for the task of survival analysis. Despite the claims from the original authors that these ML and DL methods can address limitations posed by traditional statistical survival methods, there have been limited studies that demonstrate superior performance gains by comprehensively comparing these ML methods against the traditional methods. In this invited talk, I will summarize current ML methods in survival analysis to date, talk about their limitations, and present some results of my benchmark study that compare ML survival methods to the traditional Cox model, using cardiovascular event in the young adults as a motivating example.
 
 ---
-[Effect of Arterial Catheters on Outcomes in the ICU: A Causal Inference Approach](/pdf/SCCM_Final_Team_9.pdf) 
+[Effect of Arterial Catheters on Outcomes in the ICU: A Causal Inference Approach - Manuscript In Preparation](/pdf/SCCM_Final_Team_9.pdf) 
 
 Arterial catheters (AC) placement is a common procedure in the intensive care unit (ICU) to invasively monitor blood pressure, get frequent blood samples, and monitor blood gases. However, the benefit of AC is questionable and controversal, with comparable reading from non-invasive blood pressure measurements and AC's asscociated complications (e.g., infections, limb ischemia, and pseudoaneurysm). With that, there is a call for better studies to define their role and type of patient to best benefit from them. We aim to determine the correlation between AC placement and days alive and vasopressor free in adults admitted to the ICU on vasopressors. A causal inference approach using propensity score matching was employed to construct two exchangeable groups to estimate the average treatement effect of AC on the outcomes. The outcomes include (1) days alive and vasopressor free - primary outcome, (2) death, and (3) length-of-stay (secondary outcomes). Results suggest that AC is associated with longer duration of vassopressor use and higher mortality.
 
@@ -44,6 +44,31 @@ Automatic Abnormality Classification and Breast Cancer Detection in Mammograms (
 Age Prediction Based on Statistical Shape Models from MRI brain images
 
 ---
+
+### Projects that I mentor and/or consult:
+---
+An Early Warning System of Hypoxemia in the ICU 
+
+---
+Better Diagnosing ADHD (Attention Deficit Hyperactivity Disorder) Using Pre-Diagnostic Questionnaire 
+
+---
+Predicting Acute Kidney Injury After Elevated Risk Non-cardiac Surgery
+
+---
+Delirium Prediction and Subtype Identification Using a Large Multi-Center ICU Database 
+
+---
+Risk Factors For Neurologic Injury and Mortality in Critically Ill Children Supported on ECMO
+
+--- 
+Predicting Respiratory Decompensation in Pediatric ICU
+
+---
+A Computational Model to Predict Neurological Recovery Following Moderate and Severe Traumatic Brain Injuries
+
+---
+Advanced Risk Stratification and Prediction of Venous Thromboembolism in Critically Ill Patients
 
 
 ## II. PUBLICATIONS:
