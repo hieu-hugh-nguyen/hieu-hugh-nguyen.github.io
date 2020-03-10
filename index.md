@@ -46,31 +46,25 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 ---
 
 ### Projects that I mentor and/or consult:
----
+
 An Early Warning System of Hypoxemia in the ICU 
 
----
 Better Diagnosing ADHD (Attention Deficit Hyperactivity Disorder) Using Pre-Diagnostic Questionnaire 
 
----
 Predicting Acute Kidney Injury After Elevated Risk Non-cardiac Surgery
 
----
 Delirium Prediction and Subtype Identification Using a Large Multi-Center ICU Database 
 
----
 Risk Factors For Neurologic Injury and Mortality in Critically Ill Children Supported on ECMO
 
---- 
 Predicting Respiratory Decompensation in Pediatric ICU
 
----
+
 A Computational Model to Predict Neurological Recovery Following Moderate and Severe Traumatic Brain Injuries
 
----
 Advanced Risk Stratification and Prediction of Venous Thromboembolism in Critically Ill Patients
 
-
+---
 ## II. PUBLICATIONS:
 
 - [A Physiology-Driven Computational Model for Post-Cardiac Arrest Outcome Prediction](https://arxiv.org/abs/2002.03309)
