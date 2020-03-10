@@ -1,6 +1,9 @@
-Objectives: Can data generated during a cardiopulmonary exercise test (CPET) alone and in combination with clinical data (demographics, clinical, medications) improve prediction of trajectory of exercise capacity and functional status in pediatric and young adult patients with structural heart disease. 
+## Prediction of Trajectory of Exercise Capacity and Functional Status in Patients with Structural Heart Disease
 
-Description:
+**Objectives:** Can data generated during a cardiopulmonary exercise test (CPET) alone and in combination with clinical data (demographics, clinical, medications) improve prediction of trajectory of exercise capacity and functional status in pediatric and young adult patients with structural heart disease. 
+
+### Description:
+
 Structural heart disease (SHD) refers to non-coronary cardiovascular disease processes and consists of congenital heart disease (e.g.: atrial septal defect) and heart disease that is acquired through wear and tear (e.g.: valvular leakage). About 1 million U.S. children and about 1.4 million U.S. adults are living with SHD. Patients with SHD who have been stable for a long time could crash suddenly without any warning signs. In the current practice setting, physicians see the patient for a few hours, put him on a CPET study and does not see him again for another six months. In a typical CPET, a patient is pushed to maximal exertion possible on a bike or a treadmill, while data are recorded pertaining to the patient’s pulmonary, cardiovascular, and skeletal muscle systems. The recorded data contain hundreds of thousands of data points that are then summarized into a few several metrics. 
 
 The problem is that, physicians typically use <5 indicators from exercise tests to make decisions. The existing methods of prognosticating outcome in fail to maximize the rich predictive value of CPET data. In addition, there have been no published methods of prognosticating outcome in pediatric patients, who make up a large portion of SHD cases. 
