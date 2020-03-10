@@ -35,7 +35,7 @@ Recent advances in data acquisition, storage, and artificial intelligence have e
 Arterial catheters (AC) placement is a common procedure in the intensive care unit (ICU) to invasively monitor blood pressure, get frequent blood samples, and monitor blood gases. However, the benefit of AC is questionable and controversal, with comparable reading from non-invasive blood pressure measurements and AC's asscociated complications (e.g., infections, limb ischemia, and pseudoaneurysm). With that, there is a call for better studies to define their role and type of patient to best benefit from them. We aim to determine the correlation between AC placement and days alive and vasopressor free in adults admitted to the ICU on vasopressors. A causal inference approach using propensity score matching was employed to construct two exchangeable groups to estimate the average treatement effect of AC on the outcomes. The outcomes include (1) days alive and vasopressor free - primary outcome, (2) death, and (3) length-of-stay (secondary outcomes). Results suggest that AC is associated with longer duration of vassopressor use and higher mortality.
 
 ---
-Periatrial Fat Quality Predicts Atrial Fibrillation Ablation Outcome 
+[Periatrial Fat Quality Predicts Atrial Fibrillation Ablation Outcome](https://www.ncbi.nlm.nih.gov/pubmed/31177816)
 
 ---
 Automatic Abnormality Classification and Breast Cancer Detection in Mammograms (Breast X-ray Images)
