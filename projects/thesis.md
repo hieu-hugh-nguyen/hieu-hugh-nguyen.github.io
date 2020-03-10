@@ -8,6 +8,7 @@
 
 
 - Aim 1: To evaluate machine learning and deep learning survival methods against commonly used, statistical methods on the same datasets. 
+
 - Aim 2: To develop a method that could make use of longitudinal data in survival prediction.
 - Aim 3: To develop a method that could combine variables automatically extracted from image-type data with the information from non-image data to enhance survival prediction. 
 
