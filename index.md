@@ -10,7 +10,7 @@
 [Better Prediction of Outcomes in Pediatric and Adult Cardiac Surgery](/projects/cardiac_surgery.md)
 
 ---
-[Prediction of Trajectory of Exercise Capacity and Functional Status in Patients with Structural Heart Disease]
+[Prediction of Trajectory of Exercise Capacity and Functional Status in Patients with Structural Heart Disease](/projects/cardiac_exercise.md)
 
 ---
 
