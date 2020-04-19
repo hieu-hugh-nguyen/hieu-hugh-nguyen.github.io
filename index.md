@@ -17,7 +17,7 @@
 
 ---
 
-[Novel Time-to-Event Machine Learning Approach for Integration of Longitudinal Data and Image Data](/projects/thesis.md)
+[Dissertation Research: Novel Time-to-Event Machine Learning Approach for Integration of Longitudinal Data and Image Data](/projects/thesis.md)
 
 ---
 
