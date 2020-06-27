@@ -1,10 +1,8 @@
-# About me:
 I aspire to become a leader in healthcare with a lifelong dream of setting new standards of care and delivering more accessible, tailored treatments to patients. Everything I do is patient-centric, as a result of having witnessed many patients suffering and dying since the young age. Over the last eight years of working with teams of clinicians and scientists, I've been fortunate to experience many different domains of medical science, such as cardiac data science, molecular biology, computational biology, and medical imaging. Right now, I research and develop AI/ML algorithms to better analyze medical data, and apply them to solve real-world problems in Cardiology, Critical Care, and Oncology. 
-
-<br/>
 <br/>
 
-Below is my portfolio:
+# Portfolio:
+
 [My CV](/pdf/CV_Hieu(Hugh)Nguyen.pdf)
 
 [My Resume](/pdf/Resume_Hieu(Hugh)Nguyen_March2020.pdf)
