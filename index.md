@@ -1,9 +1,11 @@
 # A little bit about me:
 I aspire to become a leader in healthcare with a lifelong dream of setting new standards of care and making treatments more accessible and tailored to each patient. Everything I do is patient-centric, as a result of having witnessed many patient sufferings and deaths for over 11 years. Over the last eight years of working with teams of clinicians and scientists, I've been fortunate to experience many different domains of medical science, such as cardiac data science, molecular biology, computational biology, and medical imaging. Right now, I research and develop AI/ML algorithms to better analyze medical data, and apply them to solve real-world problems in Cardiology, Critical Care, and Oncology. 
 
+<br/>
+<br/>
+<br/>
 
-
-# Portfolio
+# Portfolio:
 [My CV](/pdf/CV_Hieu(Hugh)Nguyen.pdf)
 
 [My Resume](/pdf/Resume_Hieu(Hugh)Nguyen_March2020.pdf)
@@ -112,4 +114,14 @@ The grant provides stipends for a summer research and travel expenses to present
 2014 <br/>
 The award honors 10 Vietnamese under 35 years-old who stood out in fields of study, scientific research, production, society, sport, arts, and national defense
 
+
+
+---
+
+
+
+
+## IV. MISCELLANEOUS FACTS:
+Outside of work, I enjoy dancing (breakdancing, tutting, and general hip hop), exercising, watching Youtube videos, and talking with friends. <br/>
+I love manga (not comics!), soccer (Come On Chelsea!), and the NBA.
 
