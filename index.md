@@ -9,7 +9,7 @@ I aspire to become a leader in healthcare with a lifelong dream of setting new s
 
 [My Resume](/pdf/Resume_Hieu(Hugh)Nguyen_March2020.pdf)
 
----
+<br/>
 
 ## I. PROJECTS:
 ### Ongoing:
