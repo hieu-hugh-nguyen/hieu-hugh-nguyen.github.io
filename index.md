@@ -120,7 +120,7 @@ The award honors 10 Vietnamese under 35 years-old who stood out in fields of stu
 
 
 
-## IV. MISCELLANEOUS FACTS:
+## IV. MISCELLANEA:
 Outside of work, I enjoy dancing (breakdancing, tutting, and general hip hop), exercising, watching Youtube videos, and talking with friends. <br/>
 I also love manga (not comics!), soccer (Come On Chelsea!), and the NBA.
 
