@@ -5,9 +5,9 @@ I aspire to become a leader in healthcare with a lifelong dream of setting new s
 
 # Portfolio:
 
-[My CV](/pdf/CV_Hieu(Hugh)Nguyen.pdf)
+[My CV](/pdf/CV_Hieu(Hugh)Nguyen_July2020.pdf)
 
-[My Resume](/pdf/Resume_Hieu(Hugh)Nguyen_March2020.pdf)
+[My Resume](/pdf/Resume_Hieu(Hugh)Nguyen_July2020.pdf)
 
 <br/>
 
