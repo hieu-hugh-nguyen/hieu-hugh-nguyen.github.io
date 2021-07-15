@@ -72,6 +72,7 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 ## II. PUBLICATIONS:
 
 - [A Physiology-Driven Computational Model for Post-Cardiac Arrest Outcome Prediction](https://arxiv.org/abs/2002.03309)
+- [A Computational Model to Predict Brain Trauma Outcome in the Intensive](https://www.medrxiv.org/content/10.1101/2020.11.23.20237214v1) 
 - [Periatrial Fat Quality Predicts Atrial Fibrillation Ablation Outcome](https://www.ncbi.nlm.nih.gov/pubmed/31177816)
 - [Fibrosis and fibrotic gene expression in pediatric and adult patients with idiopathic dilated cardiomyopathy](https://www.ncbi.nlm.nih.gov/pubmed/27890770)
 - [Fibrosis-related gene expression in single ventricle heart disease](https://www.ncbi.nlm.nih.gov/pubmed/29050751)
@@ -83,8 +84,16 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 ## III. HONORS AND AWARDS:
 
 **Star Research Achievement Award** | Society of Critical Care Medicine
+2021 Virtual Conference <br/>
+The award recognizes excellence in critical care research
+
+**Star Research Achievement Award** | Society of Critical Care Medicine
 2020 <br/>
 The award recognizes excellence in critical care research
+
+**ACCM Research Day Award** | Department of Anesthesiology and Critical Care Medicine at Johns Hopkins
+2019 & 2020 <br/>
+Best poster presentation
 
 **Young Investigator Award** | Resuscitation Science Symposium, American Heart Association 
 2019 <br/>
