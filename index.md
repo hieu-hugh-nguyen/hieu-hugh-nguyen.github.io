@@ -7,7 +7,7 @@ I aspire to become a leader in healthcare with a lifelong dream of setting new s
 
 [My CV](/pdf/CV_Hieu(Hugh)Nguyen_May2021.pdf)
 
-[My Resume](/pdf/Resume_Hieu(Hugh)Nguyen_July2020.pdf)
+[My Resume](/pdf/Resume_Hieu(Hugh)Nguyen_Oct2021.pdf)
 
 <br/>
 
