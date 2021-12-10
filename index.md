@@ -1,6 +1,6 @@
 I aspire to become a leader in healthcare with a lifelong dream of setting new standards of care and delivering more accessible, tailored treatments to patients. Everything I do is patient-centric, as a result of having witnessed many patients suffering and dying since the young age. Over the last eight years of working with teams of clinicians and scientists, I've been fortunate to experience many different domains of medical science, such as cardiac data science, molecular biology, computational biology, and medical imaging. Right now, I research and develop AI/ML algorithms to better analyze medical data, and apply them to solve real-world problems in Cardiology, Critical Care, and Oncology. 
 
-Asides from academic research, I am fortunate to do research and apply ML to health-related projects in industry, via internships and co-ops under startups (Perthera Inc.) and big-tech (Apple Inc.) settings.
+Asides from academic research, I am fortunate to do research and apply ML to health-related projects in industry, via internships and co-ops under startups (Perthera Inc.) and corporate settings (Apple Inc. and Medtronic Inc.).
 
 <br/>
 
