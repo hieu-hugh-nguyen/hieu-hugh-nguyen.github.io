@@ -1,6 +1,8 @@
-I aspire to become a leader in healthcare with a lifelong dream of setting new standards of care and delivering more accessible, tailored treatments to patients. Everything I do is patient-centric, as a result of having witnessed many patients suffering and dying since the young age. Over the last eight years of working with teams of clinicians and scientists, I've been fortunate to experience many different domains of medical science, such as cardiac data science, molecular biology, computational biology, and medical imaging. Right now, I research and develop AI/ML algorithms to better analyze medical data, and apply them to solve real-world problems in Cardiology, Critical Care, and Oncology. 
+One cool thing about me: I aspire to become a leader in healthcare with a lifelong dream of setting new standards of care and delivering more accessible, tailored treatments to patients. Everything I do is patient-centric, as a result of having witnessed many patients suffering and dying since the young age. Over the last eight years of working with teams of clinicians, scientists, and data gurus, I've been fortunate to experience and contribute to various exciting projects spanning different health domains, such as data science, molecular biology, comp bio, digital health, wearable sensor, and medical imaging.
 
-Asides from academic research, I am fortunate to do research and apply ML to health-related projects in industry, via internships and co-ops under startups (Perthera Inc.) and corporate settings (Apple Inc. and Medtronic Inc.).
+Right now, I research and develop AI/ML algorithms to better analyze health data. On the application side, I apply methods in ML, XAI, Vision, NLP, and time-series analysis to address real-world unmet needs in Cardiology, Critical Care, and Oncology. 
+
+Asides from academic research, I am fortunate to have 3 years of industry experience, doing research and applying ML to solve health-related problems at Apple, Medtronic, and Perthera.
 
 <br/>
 
@@ -32,7 +34,7 @@ Asides from academic research, I am fortunate to do research and apply ML to hea
 
 
 
-### Completed:
+### Completed (And Disclosable):
 [A Machine Learning-Based Prediction of Cardiac Arrest Outcome Using a Large Multi-Center Database - Manuscript Accepted for Anaesthesia Critical Care & Pain Medicine](/pdf/TeamBlue_5minPresentation.pdf)
 
 Utilizing electronic health record and bed-side monitoring temporal data, our post-cardiac arrest neurologic outcome and mortality prediction machine learning model outperforms the baseline APACHE model by area under the receiver operating curve of 12% and 15% respectively, showing both the efficacy of integrating time series data and the generalizability of utilizing a diverse multicenter database. Feature analysis revealed previously unknown factors which were associated with post-CA recovery. Results attest to the effectiveness of ML models for post-CA predictive modeling and suggest that PTS recorded in very early phase after resuscitation encode short-term outcome probabilities.
@@ -75,12 +77,11 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 
 ## II. PUBLICATIONS:
 
-- [A Physiology-Driven Computational Model for Post-Cardiac Arrest Outcome Prediction](https://arxiv.org/abs/2002.03309)
+- [A Physiology-Driven Computational Model for Post-Cardiac Arrest Outcome Prediction](https://doi.org/10.1016/j.accpm.2021.101015) 
 - [A Computational Model to Predict Brain Trauma Outcome in the Intensive Care Unit](https://www.nature.com/articles/s41598-021-99397-4) 
 - [Periatrial Fat Quality Predicts Atrial Fibrillation Ablation Outcome](https://www.ncbi.nlm.nih.gov/pubmed/31177816)
 - [Fibrosis and fibrotic gene expression in pediatric and adult patients with idiopathic dilated cardiomyopathy](https://www.ncbi.nlm.nih.gov/pubmed/27890770)
 - [Fibrosis-related gene expression in single ventricle heart disease](https://www.ncbi.nlm.nih.gov/pubmed/29050751)
-
 
 ---
 
