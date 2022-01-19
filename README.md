@@ -1,6 +1,6 @@
 ## My Portfolio Page
 
-
+Below is the minimalistic theme that I used to build my portfolio page. There're many more themes but I just adore this style.
 
 References:
 
