@@ -10,7 +10,7 @@ Asides from academic research, I am fortunate to have 3 years of industry experi
 
 # Portfolio:
 
-[My CV](/pdf/CV_Hieu(Hugh)Nguyen_Jan2022.pdf)
+[My CV](/pdf/CV_Hieu(Hugh)Nguyen_Jan2022_2.pdf)
 
 [My Resume](/pdf/Resume_Hieu(Hugh)Nguyen_Oct2021.pdf)
 
