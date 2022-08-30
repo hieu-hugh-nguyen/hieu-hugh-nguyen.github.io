@@ -2,7 +2,7 @@ One cool thing about me: I aspire to become a leader in healthcare with a lifelo
 
 Right now, I research and develop AI/ML algorithms to better analyze health data. On the application side, I apply methods in ML, XAI, Vision, and time-series analysis to address real-world unmet needs in Cardiology, Critical Care, and Oncology. 
 
-Asides from academic research, I am fortunate to have 3 years of industry experience, doing research and applying ML to solve health-related problems at Apple, Medtronic, and Perthera.
+Asides from academic research, I am fortunate to have 2 years of industry experience, doing research and applying ML to solve health-related problems at Apple, Medtronic, and Perthera.
 
 <br/>
 
