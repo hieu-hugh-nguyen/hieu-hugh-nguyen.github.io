@@ -79,7 +79,7 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 - [Computational Signatures for Post-Cardiac Arrest Trajectory Prediction: Importance of Early Physiological Time Series](https://doi.org/10.1016/j.accpm.2021.101015) 
 - [Digital signatures for early traumatic brain injury outcome prediction in the intensive care unit](https://www.nature.com/articles/s41598-021-99397-4) 
 - [Lifetime vs 10-year Cardiovascular Disease Prediction in Young Adults Using Statistical Machine Learning and Deep Learning: The CARDIA Study](https://doi.org/10.1101/2022.09.22.22280254) 
-- [Association between Biomarkers of Inflammation and 10-Year Changes in Aortic Stiffness: The Multi-Ethnic Study of Atherosclerosis]([https://www.nature.com/articles/s41598-021-99397-4](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092893) 
+- [Association between Biomarkers of Inflammation and 10-Year Changes in Aortic Stiffness: The Multi-Ethnic Study of Atherosclerosis](https://www.nature.com/articles/s41598-021-99397-4](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092893) 
 - [Periatrial Fat Quality Predicts Atrial Fibrillation Ablation Outcome](https://www.ncbi.nlm.nih.gov/pubmed/31177816)
 - [Fibrosis and fibrotic gene expression in pediatric and adult patients with idiopathic dilated cardiomyopathy](https://www.ncbi.nlm.nih.gov/pubmed/27890770)
 - [Fibrosis-related gene expression in single ventricle heart disease](https://www.ncbi.nlm.nih.gov/pubmed/29050751)
