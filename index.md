@@ -31,7 +31,10 @@ Asides from academic research, I am fortunate to have 2 years of industry experi
 [Prediction of Trajectory of Exercise Capacity and Functional Status in Patients with Structural Heart Disease](/projects/cardiac_exercise.md)
 
 ---
+[EchoAI: Automated End-to-end Echocardiogram Analysis On Multiple Cohorts](/projects/EchoAI.md)
 
+
+---
 
 
 ### Completed (And Disclosable):
