@@ -30,9 +30,6 @@ Asides from academic research, I am fortunate to have 2 years of industry experi
 ---
 [Prediction of Trajectory of Exercise Capacity and Functional Status in Patients with Structural Heart Disease](/projects/cardiac_exercise.md)
 
----
-[EchoAI: Automated End-to-end Echocardiogram Analysis On Multiple Cohorts](/projects/echoAI.md)
-
 
 ---
 
@@ -79,10 +76,11 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 
 
 ## II. PUBLICATIONS:
+- [Multivariate Longitudinal Data for Survival Analysis of Cardiovascular Event Prediction in Young Adults: Insights from a Comparative Explainable Study](https://doi.org/10.1186/s12874-023-01845-4) 
 - [Computational Signatures for Post-Cardiac Arrest Trajectory Prediction: Importance of Early Physiological Time Series](https://doi.org/10.1016/j.accpm.2021.101015) 
-- [Digital signatures for early traumatic brain injury outcome prediction in the intensive care unit](https://www.nature.com/articles/s41598-021-99397-4) 
 - [Lifetime vs 10-year Cardiovascular Disease Prediction in Young Adults Using Statistical Machine Learning and Deep Learning: The CARDIA Study](https://doi.org/10.1101/2022.09.22.22280254)
-- [High-Dimensional Multivariate Longitudinal Data for Survival Analysis of Cardiovascular Event Prediction in Young Adults: Insights from a Comparative Explainable Study](https://doi.org/10.21203/rs.3.rs-2082433/v1) 
+- [Digital signatures for early traumatic brain injury outcome prediction in the intensive care unit](https://www.nature.com/articles/s41598-021-99397-4)
+- [Predicting Intensive Care Delirium with Machine Learning: Model Development and External Validation](https://pubmed.ncbi.nlm.nih.gov/36538354) 
 - [Association between Biomarkers of Inflammation and 10-Year Changes in Aortic Stiffness: The Multi-Ethnic Study of Atherosclerosis](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4092893) 
 - [Periatrial Fat Quality Predicts Atrial Fibrillation Ablation Outcome](https://www.ncbi.nlm.nih.gov/pubmed/31177816)
 - [Fibrosis and fibrotic gene expression in pediatric and adult patients with idiopathic dilated cardiomyopathy](https://www.ncbi.nlm.nih.gov/pubmed/27890770)
