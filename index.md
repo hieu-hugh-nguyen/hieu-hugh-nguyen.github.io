@@ -60,7 +60,7 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 
 ---
 
-### Projects that I have mentored and/or consulted:
+### Projects that I have provided mentorship and/or consultation:
 
 - An Early Warning System of Hypoxemia in the ICU 
 - Better Diagnosing ADHD (Attention Deficit Hyperactivity Disorder) Using Pre-Diagnostic Questionnaire 
