@@ -85,6 +85,8 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 - [Periatrial Fat Quality Predicts Atrial Fibrillation Ablation Outcome](https://www.ncbi.nlm.nih.gov/pubmed/31177816)
 - [Fibrosis and fibrotic gene expression in pediatric and adult patients with idiopathic dilated cardiomyopathy](https://www.ncbi.nlm.nih.gov/pubmed/27890770)
 - [Fibrosis-related gene expression in single ventricle heart disease](https://www.ncbi.nlm.nih.gov/pubmed/29050751)
+- [Association between Biomarkers of Inflammation and 10-Year Changes in Aortic Stiffness: The Multi-Ethnic Study of Atherosclerosis](https://www.mdpi.com/2077-0383/12/15/5062)
+- [Predicting Intensive Care Delirium with Machine Learning: Model Development and External Validation](https://www.mdpi.com/2077-0383/12/15/5062)
 
 ---
 
