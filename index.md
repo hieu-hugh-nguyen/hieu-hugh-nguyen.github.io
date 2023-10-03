@@ -1,8 +1,11 @@
-One cool thing about me: I aspire to become a leader in healthcare with a lifelong dream of setting new standards of care and delivering more accessible, tailored treatments to patients. Everything I do is patient-centric, as a result of having witnessed many patients suffering and dying since the young age. Since 2013, I have been fortunate to have worked alongside fantastic teams of clinicians, scientists, engineers, and statisticians in exciting projects spanning various areas of health, such as data science, molecular biology, computational biology, digital health, wearable sensors, and medical imaging. The projects, amid utilizing various techniques, converge on the focus of sub-grouping: patients are different from one another, from their backgrounds and biology to their responses to treatment, and so deserve more personalized treatments rather than 'one-size-fits-all' therapies.  
+# About me:
 
-I received my PhD degree in Biomedical Engineering, Data Science Track from Johns Hopkins University. My research interests inlcude precision medicine and digital health. I research and develop AI/ML algorithms to better analyze health data. On the application side, I apply methods in ML, XAI, Computer Vision, Biostatistics, and Time-series Analysis to address real-world unmet needs in Cardiology, Critical Care, and Oncology. 
+Passionate about transforming healthcare, I aspire to lead innovations in patient-centric care and personalized treatments. With a background in Biomedical Engineering, Data Science, and Medicine from my PhD from Johns Hopkins University, my focus is on developing AI/ML algorithms for medical data. These algorithms, applied in areas like Cardiology, Critical Care, and Oncology, address the need for personalized treatments, moving beyond 'one-size-fits-all' approaches.
 
-Asides from academic research, I am fortunate to have 2 years of industry experience, doing research and applying ML to solve health-related problems at Apple, Medtronic, and Perthera AI.
+Since 2013, I've worked on diverse health projects, collaborating with teams of clinicians, scientists, engineers, and statisticians. My dedication stems from early experiences witnessing patients suffering and dying since my childhood. In addition to academic research, I've contributed to the healthcare industry at Apple, Medtronic, Perthera AI, and Teladoc Health. My expertise spans various medical data formats, from electronic health records, digital signals, to genomics and medical imaging, utilizing ML and causal inference methodologies to drive impactful outcomes and help make healthcare easier for clinicians and patients.
+
+Currently, I work as a Principal Machine Learning Research Scientist at Optum AI (formerly Optum Labs/UnitedHealth Group R&D), UnitedHealth Group.   
+
 
 <br/>
 
