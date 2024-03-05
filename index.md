@@ -2,10 +2,9 @@
 
 Passionate about transforming healthcare, I aspire to lead innovations in patient-centric care and personalized treatments. With a background in Biomedical Engineering, Data Science, and Medicine from my PhD from Johns Hopkins University, my focus is on developing AI/ML algorithms for medical data. These algorithms, applied in areas like Cardiology, Critical Care, and Oncology, address the need for personalized treatments, moving beyond 'one-size-fits-all' approaches.
 
-Since 2013, I've worked on diverse health projects, collaborating with teams of clinicians, scientists, engineers, and statisticians. My dedication stems from early experiences witnessing patients suffering and dying since my childhood. In addition to academic research, I've contributed to the healthcare industry at Apple, Medtronic, Perthera AI, and Teladoc Health. My expertise spans various medical data formats, from electronic health records, digital signals, claims, to genomics and medical imaging, utilizing ML and causal inference methodologies to drive impactful outcomes and help make healthcare easier for clinicians and patients.
+Since 2013, I've worked on diverse health projects, collaborating with teams of clinicians, scientists, engineers, and statisticians. My dedication stems from early experiences witnessing patients suffering and dying since my childhood. In addition to academic research, I've contributed to the healthcare industry at Apple, Medtronic, Perthera AI, and Teladoc Health. My expertise spans various medical data formats, from electronic health records, digital signals, claims, to genomics and medical imaging, utilizing ML and causal inference methodologies to drive impactful outcomes and help make healthcare easier for clinicians and patients. Please see my LinkedIn and Google Scholar for my most up-to-date professional and academic profiles.
 
 Currently, I work as a Principal Machine Learning Research Scientist at Optum AI (formerly Optum Labs/UnitedHealth Group R&D), UnitedHealth Group.   
-
 
 <br/>
 
@@ -13,14 +12,13 @@ Currently, I work as a Principal Machine Learning Research Scientist at Optum AI
 
 # Portfolio:
 
-[My Short CV](/pdf/HughNguyen_CV_Data_ML_Apple.pdf)
+[My Short CV - Last Update: Sep 2022](/pdf/HughNguyen_CV_Data_ML_Apple.pdf)
 
-[My one-page General Resume](/pdf/HughNguyen_One-Page_General_Resume_Sep_22.pdf)
+[My one-page General Resume - Last Update: Sep 2022](/pdf/HughNguyen_One-Page_General_Resume_Sep_22.pdf)
 
 <br/>
 
-## I. PROJECTS:
-### Ongoing:
+## I. DISCLOSABLE PROJECTS:
 [Dissertation Research: Novel Time-to-Event Machine Learning Approach for Integration of Longitudinal Data and Image Data](/projects/thesis.md)
 
 ---
@@ -36,8 +34,6 @@ Currently, I work as a Principal Machine Learning Research Scientist at Optum AI
 
 ---
 
-
-### Completed (And Disclosable):
 [A Machine Learning-Based Prediction of Cardiac Arrest Outcome Using a Large Multi-Center Database - Manuscript Accepted for Anaesthesia Critical Care & Pain Medicine](/pdf/TeamBlue_5minPresentation.pdf)
 
 Utilizing electronic health record and bed-side monitoring temporal data, our post-cardiac arrest neurologic outcome and mortality prediction machine learning model outperforms the baseline APACHE model by area under the receiver operating curve of 12% and 15% respectively, showing both the efficacy of integrating time series data and the generalizability of utilizing a diverse multicenter database. Feature analysis revealed previously unknown factors which were associated with post-CA recovery. Results attest to the effectiveness of ML models for post-CA predictive modeling and suggest that PTS recorded in very early phase after resuscitation encode short-term outcome probabilities.
