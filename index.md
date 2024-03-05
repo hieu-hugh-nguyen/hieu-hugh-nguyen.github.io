@@ -74,7 +74,9 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 ---
 
 
-## II. PUBLICATIONS:
+## II. SELECTED PUBLICATIONS:
+Please see my Google Scholar page for more up-to-date publications. 
+
 - [Multivariate Longitudinal Data for Survival Analysis of Cardiovascular Event Prediction in Young Adults: Insights from a Comparative Explainable Study](https://doi.org/10.1186/s12874-023-01845-4) 
 - [Computational Signatures for Post-Cardiac Arrest Trajectory Prediction: Importance of Early Physiological Time Series](https://doi.org/10.1016/j.accpm.2021.101015) 
 - [Lifetime vs 10-year Cardiovascular Disease Prediction in Young Adults Using Statistical Machine Learning and Deep Learning: The CARDIA Study](https://doi.org/10.1101/2022.09.22.22280254)
