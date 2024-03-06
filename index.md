@@ -78,7 +78,7 @@ Age Prediction Based on Statistical Shape Models from MRI brain images
 Please see my Google Scholar page for more up-to-date publications. 
 
 - [Utility of multimodal longitudinal imaging data for dynamic prediction of cardiovascular and renal disease: the CARDIA study
-](https://doi.org/10.3389/fradi.2024.1269023)
+](https://doi.org/10.3389/fradi.2024.1269023) 
 - [Multivariate Longitudinal Data for Survival Analysis of Cardiovascular Event Prediction in Young Adults: Insights from a Comparative Explainable Study](https://doi.org/10.1186/s12874-023-01845-4) 
 - [Computational Signatures for Post-Cardiac Arrest Trajectory Prediction: Importance of Early Physiological Time Series](https://doi.org/10.1016/j.accpm.2021.101015) 
 - [Lifetime vs 10-year Cardiovascular Disease Prediction in Young Adults Using Statistical Machine Learning and Deep Learning: The CARDIA Study](https://doi.org/10.1101/2022.09.22.22280254)
@@ -143,6 +143,6 @@ The award honors 10 Vietnamese under 35 years-old who stood out in fields of stu
 
 
 ## IV. MISCELLANEA:
-Outside of work, I enjoy dancing (breakdancing, tutting, and general hip hop), exercising, watching Youtube videos, and talking with friends. <br/>
+Outside of work, I enjoy dancing (breakdancing, tutting, and general hip hop), calisthenics, watching Youtube, and talking with friends. <br/>
 I also love manga, soccer (Come On Chelsea!), and the NBA.
 
