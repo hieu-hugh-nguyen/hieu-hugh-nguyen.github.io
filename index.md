@@ -2,7 +2,7 @@
 
 Passionate about transforming healthcare, I aspire to lead innovations in patient-centric care and personalized treatments. With a background in Biomedical Engineering, Data Science, and Medicine from my PhD from Johns Hopkins University, my focus is on developing AI/ML algorithms for medical data. These algorithms, applied in areas like Cardiology, Critical Care, and Oncology, address the need for personalized treatments, moving beyond 'one-size-fits-all' approaches.
 
-Since 2013, I've worked on diverse health projects, collaborating with teams of clinicians, scientists, engineers, and statisticians. My dedication stems from early experiences witnessing patients suffering and dying since my childhood. In addition to academic research, I've contributed to the healthcare industry at Apple, Medtronic, Perthera AI, and Teladoc Health. My expertise spans various medical data formats, from electronic health records, digital signals, claims, to genomics and medical imaging, utilizing ML and causal inference methodologies to drive impactful outcomes and help make healthcare easier for clinicians and patients. Please see my LinkedIn and Google Scholar for my most up-to-date professional and academic profiles.
+Since 2013, I've worked on diverse health projects, collaborating with teams of clinicians, scientists, engineers, and statisticians. My dedication stems from early experiences witnessing patients suffering and dying since my childhood. In addition to academic research, I've contributed to the healthcare industry at Apple, Medtronic, Perthera AI, and Teladoc Health. My expertise spans various medical data formats, from electronic health records, digital signals, claims, to genomics and medical imaging, utilizing ML and causal inference methodologies to drive impactful outcomes and help make healthcare easier for clinicians and patients. Please see my Google Scholar for my most up-to-date academic work.
 
 Currently, I work as a Principal Machine Learning Research Scientist at Optum AI (formerly Optum Labs/UnitedHealth Group R&D), UnitedHealth Group.   
 
@@ -10,13 +10,26 @@ Currently, I work as a Principal Machine Learning Research Scientist at Optum AI
 
 ---
 
-# Portfolio:
+<br/>
+
+## Summary of Past Work 
+
+| **Org** | **Main Focus / Project** | **Data** | **Methods / Techniques** |
+|----------|--------------------------|-----------|---------------------------|
+| **PhD Thesis JHU** | ML for survival analysis & longitudinal outcome prediction | Multimodal health visits: imaging, labs, meds, activity, med history | Survival analysis & time-series ML/DL, explainable AI |
+| **JHU Neurocritical ICU** | Early warning of adverse events | EHR, high-frequency vitals | RNN/CNN, ensembles, transfer learning, causal inference |
+| **JHU Cardiology** | Automated imaging analysis | Echocardiograms | CNN, U-Net segmentation, end-to-end workflow |
+| **Perthera AI** | Treatment response & trial matching | Multi-omics, tumor profiles, clinical trial | Cox/DeepSurv, clustering (UMAP/t-SNE), NLP (BiLSTM, TF-IDF), SHAP/LIME |
+| **Apple** | Apple Watch sleep staging and phenotype discovery | Wearable signals | LSTM autoencoders, time-series clustering |
+| **Optum** | LLMs & RAG for healthcare: chatbot, summarization, foundation models, scribe, auto-form filling | EHR, claims, notes, imaging reports, audio | Multi-agent RAG, language model pre-training, fine-tuning, deployment observability, CI/CD pipelines |
+
+
+## Resume:
 
 [My Short CV - Last Update: Sep 2022](/pdf/HughNguyen_CV_Data_ML_Apple.pdf)
 
 [My one-page General Resume - Last Update: Sep 2022](/pdf/HughNguyen_One-Page_General_Resume_Sep_22.pdf)
 
-<br/>
 
 ## I. DISCLOSABLE PROJECTS:
 [Dissertation Research: Novel Time-to-Event Machine Learning Approach for Integration of Longitudinal Data and Image Data](/projects/thesis.md)
