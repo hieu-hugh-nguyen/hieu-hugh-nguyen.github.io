@@ -45,9 +45,7 @@ My journey combines technical rigor and clinical collaboration—designing ML an
 
 ## Resume:
 
-[My Short CV](/pdf/HughNguyen_CV_Data_ML_Apple.pdf)
-
-[My one-page General Resume](/pdf/HughNguyen_One-Page_General_Resume_Sep_22.pdf)
+[My Resume](/pdf/Resume_HieuNguyen_2024_General.pdf)
 
 <br/>
 
