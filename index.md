@@ -16,7 +16,6 @@ Currently, I work as a Lead AI Engineer/Scientist at Optum AI (formerly Optum La
 - Currently Lead AI/ML Engineer–Scientist at Optum
 - Ph.D. in Biomedical Engineering (AI in Healthcare track) — Johns Hopkins University
 - Expertise: AI/ML, predictive modeling, computer vision, time series, biostatistics; lately RAG & agents
-- Expertise: AI/ML, predictive modeling, computer vision, time series, biostatistics; lately RAG & agents
 - Experience: Building and deploying end-to-end ML/LLM systems at scale across multi-modal health care data: EHR, claims, imaging, omics, and wearable data
 - Recent focus: Scalable healthcare AI infrastructure — LangGraph, RAG pipelines, Azure CI/CD, observability, and evaluation frameworks
 - Technical leadership, cross-functional collaboration (UI/UX, front-end, back-end, data engineering, exec, legal & compliance, clinicians)
