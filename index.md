@@ -1,6 +1,6 @@
 ## My Journey
 
-I’m driven by a vision to make healthcare more intelligent, personalized, and human-centered. Trained at Johns Hopkins University (Ph.D. in Biomedical Engineering, AI in Healthcare track), my work bridges cutting-edge AI research and large-scale real-world deployment. My dedication stems from early experiences witnessing patients suffering and dying since my childhood. Over the past decade, I’ve contributed to both academia and industry—advancing healthcare AI at Apple, Medtronic, Perthera AI, Teladoc Health, and Optum.
+I’m driven by a vision to make healthcare more intelligent, personalized, and human-centered. Trained at Johns Hopkins University (Ph.D. in Biomedical Engineering, AI in Healthcare track), my work bridges cutting-edge AI research and large-scale real-world deployment. My dedication stems from early experiences witnessing patients suffering and dying since my childhood. Over the past decade, I’ve contributed to both academia and industry—advancing healthcare AI at Apple, Johns Hopkins Hospital, Perthera AI, Teladoc Health, and Optum.
 
 My journey combines technical rigor and clinical collaboration—designing ML and LLM systems that translate multimodal health data (EHR, imaging, omics, and wearables) into actionable insights. I’m passionate about building reliable, scalable AI infrastructure and leading cross-functional teams to move innovations from research to production impact. 
 
