@@ -4,13 +4,24 @@ Passionate about transforming healthcare, I aspire to lead innovations in patien
 
 Since 2013, I've worked on diverse health projects, collaborating with teams of clinicians, scientists, engineers, and statisticians. My dedication stems from early experiences witnessing patients suffering and dying since my childhood. In addition to academic research, I've contributed to the healthcare industry at Apple, Medtronic, Perthera AI, and Teladoc Health. My expertise spans various medical data formats, from electronic health records, digital signals, claims, to genomics and medical imaging, utilizing ML and causal inference methodologies to drive impactful outcomes and help make healthcare easier for clinicians and patients. Please see my Google Scholar for my most up-to-date academic work.
 
-Currently, I work as a Principal Machine Learning Research Scientist at Optum AI (formerly Optum Labs/UnitedHealth Group R&D), UnitedHealth Group.   
+Currently, I work as a Lead AI Engineer/Scientist at Optum AI (formerly Optum Labs/UnitedHealth Group R&D), UnitedHealth Group.   
 
 <br/>
 
 ---
 
 <br/>
+
+## "About Me" Bullets 
+- Currently Lead AI/ML Engineer–Scientist at Optum
+- Ph.D. in Biomedical Engineering (AI in Healthcare track) — Johns Hopkins University
+- Expertise: AI/ML, predictive modeling, computer vision, time series, biostatistics; lately RAG & agents
+- Expertise: AI/ML, predictive modeling, computer vision, time series, biostatistics; lately RAG & agents
+- Experience: Building and deploying end-to-end ML/LLM systems at scale across multi-modal health care data: EHR, claims, imaging, omics, and wearable data
+- Recent focus: Scalable healthcare AI infrastructure — LangGraph, RAG pipelines, Azure CI/CD, observability, and evaluation frameworks
+- Technical leadership, cross-functional collaboration (UI/UX, front-end, back-end, data engineering, exec, legal & compliance, clinicians)
+- Driving AI product strategy from research to production while maintaining hands-on dev work
+
 
 ## Summary of Past Work 
 
@@ -154,8 +165,4 @@ The award honors 10 Vietnamese under 35 years-old who stood out in fields of stu
 
 
 
-
-## IV. MISCELLANEA:
-Outside of work, I enjoy dancing (breakdancing, tutting, and general hip hop), calisthenics, watching Youtube, and talking with friends. <br/>
-I also love manga, soccer (Come On Chelsea!), and the NBA.
 
