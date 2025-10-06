@@ -1,10 +1,10 @@
-# About me:
+## My Journey
 
-Passionate about transforming healthcare, I aspire to lead innovations in patient-centric care and personalized treatments. With a background in Biomedical Engineering, Data Science, and Medicine from my PhD from Johns Hopkins University, my focus is on developing AI/ML algorithms for medical data. These algorithms, applied in areas like Cardiology, Critical Care, and Oncology, address the need for personalized treatments, moving beyond 'one-size-fits-all' approaches.
+I’m driven by a vision to make healthcare more intelligent, personalized, and human-centered. Trained at Johns Hopkins University (Ph.D. in Biomedical Engineering, AI in Healthcare track), my work bridges cutting-edge AI research and large-scale real-world deployment. My dedication stems from early experiences witnessing patients suffering and dying since my childhood. Over the past decade, I’ve contributed to both academia and industry—advancing healthcare AI at Apple, Medtronic, Perthera AI, Teladoc Health, and Optum.
 
-Since 2013, I've worked on diverse health projects, collaborating with teams of clinicians, scientists, engineers, and statisticians. My dedication stems from early experiences witnessing patients suffering and dying since my childhood. In addition to academic research, I've contributed to the healthcare industry at Apple, Medtronic, Perthera AI, and Teladoc Health. My expertise spans various medical data formats, from electronic health records, digital signals, claims, to genomics and medical imaging, utilizing ML and causal inference methodologies to drive impactful outcomes and help make healthcare easier for clinicians and patients. Please see my Google Scholar for my most up-to-date academic work.
+My journey combines technical rigor and clinical collaboration—designing ML and LLM systems that translate multimodal health data (EHR, imaging, omics, and wearables) into actionable insights. I’m passionate about building reliable, scalable AI infrastructure and leading cross-functional teams to move innovations from research to production impact. 
 
-Currently, I work as a Lead AI Engineer/Scientist at Optum AI (formerly Optum Labs/UnitedHealth Group R&D), UnitedHealth Group.   
+
 
 <br/>
 
@@ -12,7 +12,7 @@ Currently, I work as a Lead AI Engineer/Scientist at Optum AI (formerly Optum La
 
 <br/>
 
-## "About Me" Bullets 
+## At a Glance:
 - Currently Lead AI/ML Engineer–Scientist at Optum
 - Ph.D. in Biomedical Engineering (AI in Healthcare track) — Johns Hopkins University
 - Expertise: AI/ML, predictive modeling, computer vision, time series, biostatistics; lately RAG & agents
@@ -21,8 +21,12 @@ Currently, I work as a Lead AI Engineer/Scientist at Optum AI (formerly Optum La
 - Technical leadership, cross-functional collaboration (UI/UX, front-end, back-end, data engineering, exec, legal & compliance, clinicians)
 - Driving AI product strategy from research to production while maintaining hands-on dev work
 
+<br/>
 
-## Summary of Past Work 
+---
+
+<br/>
+## Summary of Past Work:
 
 | **Org** | **Main Focus / Project** | **Data** | **Methods / Techniques** |
 |----------|--------------------------|-----------|---------------------------|
@@ -33,13 +37,27 @@ Currently, I work as a Lead AI Engineer/Scientist at Optum AI (formerly Optum La
 | **Apple** | Apple Watch sleep staging and phenotype discovery | Wearable signals | LSTM autoencoders, time-series clustering |
 | **Optum** | LLMs & RAG for healthcare: chatbot, summarization, foundation models, scribe, auto-form filling | EHR, claims, notes, imaging reports, audio | Multi-agent RAG, language model pre-training, fine-tuning, deployment observability, CI/CD pipelines |
 
+<br/>
+
+---
+
+<br/>
 
 ## Resume:
 
-[My Short CV - Last Update: Sep 2022](/pdf/HughNguyen_CV_Data_ML_Apple.pdf)
+[My Short CV](/pdf/HughNguyen_CV_Data_ML_Apple.pdf)
 
-[My one-page General Resume - Last Update: Sep 2022](/pdf/HughNguyen_One-Page_General_Resume_Sep_22.pdf)
+[My one-page General Resume](/pdf/HughNguyen_One-Page_General_Resume_Sep_22.pdf)
 
+<br/>
+
+---
+
+<br/>
+
+## PORTFOLIO: 
+
+<br/>
 
 ## I. DISCLOSABLE PROJECTS:
 [Dissertation Research: Novel Time-to-Event Machine Learning Approach for Integration of Longitudinal Data and Image Data](/projects/thesis.md)
